@@ -4,9 +4,9 @@
 
 - **I am 18 years old.**
 - **I have a passion for reading history.**
-- **I enjoy riding my bicycle.**
-- **I love programming, especially in Python and C++.**
-- **I'm into making games and playing Minecraft.**
+- **I enjoy riding bicycles.**
+- **I'm into making games**
+- **Wanna play Minecraft with me?**
 
 ## Skills
 
