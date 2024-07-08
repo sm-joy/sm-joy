@@ -1,8 +1,6 @@
-# Hi there, I'm **Joy** 👋
-
 ## About Me
 
-- **I am 18 years old.**
+- **I am 18.**
 - **I have a passion for reading history.**
 - **I enjoy riding bicycles.**
 - **I'm into making games**
