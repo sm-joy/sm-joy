@@ -1,7 +1,6 @@
 ## About Me
 
 - **I am 18.**
-- **I have a passion for reading history.**
 - **I enjoy riding bicycles.**
 - **I'm into making games**
 - **I'm exceptionally talented at reinventing the wheel! If you ever need a poorly designed, time-wasting, and completely unnecessary software solution, I'm your person. Why use a perfectly good existing tool when you can spend countless hours building a subpar version yourself? 😄**
